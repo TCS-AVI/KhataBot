@@ -1,0 +1,37 @@
+{
+  "id": "./",
+  "name": "KhataBot",
+  "short_name": "KhataBot",
+  "description": "KhataBot: private household budget, bills, IOU and income tax tracker for India. Encrypted on your device.",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f8f5ef",
+  "theme_color": "#1b2f6b",
+  "lang": "en-IN",
+  "categories": [
+    "finance",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
